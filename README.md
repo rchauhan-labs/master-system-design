@@ -1,5 +1,5 @@
 # Master System Design Like a Pro 🚀
-![Alt text](images/welcome-system-design.PNG)
+![Master System Design](images/welcome-system-design.PNG)
 
 Understand key system design concepts with clarity and real-world examples.  
 
