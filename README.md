@@ -1,4 +1,7 @@
 # Master System Design Like A Pro 🚀
+
+![Alt text](images/welcome-system-design.PNG)
+
 Understand key system design concepts with clarity and real-world examples.  
 
 Whether you're a software engineer, architect, or just curious about building scalable and high-performing systems, you'll find valuable lessons here.  
