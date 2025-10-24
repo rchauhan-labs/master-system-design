@@ -1,7 +1,5 @@
 # Master System Design Like A Pro 🚀
-Master system design with clarity and insight.  
-
-Learn important system design concepts through simple explanations with real-world examples.  
+Understand key system design concepts with clarity and real-world examples.  
 
 Whether you're a software engineer, architect, or just curious about building scalable and high-performing systems, you'll find valuable lessons here.  
 
