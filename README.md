@@ -9,3 +9,6 @@ Dive in, explore, and let's build a strong foundation in system design together!
 
 ## 🧩 System Design Trade-offs That Matter 
 - [Performance vs Scalability](https://thesystemthinker.substack.com/p/performance-vs-scalability)
+
+## 🗄️ Data Layer Decisions That Matter
+- [Sharding vs Partitioning](https://thesystemthinker.substack.com/p/sharding-vs-partitioning)
