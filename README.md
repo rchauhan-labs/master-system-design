@@ -7,6 +7,9 @@ Whether you're a software engineer, architect, or just curious about building sc
 
 Dive in, explore, and let's build a strong foundation in system design together!
 
+## 🔁 System Design Simplified With Real World Analogy
+- [How Request Flow & Scale](https://thesystemthinker.substack.com/p/system-design-simplified-how-requests)
+
 ## 🧩 System Design Trade-offs That Matter 
 - [Performance vs Scalability](https://thesystemthinker.substack.com/p/performance-vs-scalability)
 - [Latency vs Throughput](https://thesystemthinker.substack.com/p/latency-vs-throughput)
